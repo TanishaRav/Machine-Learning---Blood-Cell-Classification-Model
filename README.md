@@ -6,14 +6,14 @@ A machine learning project that automatically identifies different types of bloo
 
 This model looks at blood cell images and classifies them into **8 different types** of cells:
 
-- **Basophil** - Helps with allergic reactions
-- **Eosinophil** - Fights off parasites
-- **Erythroblast** - Baby red blood cells
-- **Immature Granulocytes** - Young white blood cells
-- **Lymphocyte** - Your immune system's soldiers
-- **Monocyte** - The biggest white blood cells
-- **Neutrophil** - The most common defenders
-- **Platelet** - Helps your blood clot
+- **Basophil** 
+- **Eosinophil** 
+- **Erythroblast** 
+- **Immature Granulocytes** 
+- **Lymphocyte** 
+- **Monocyte** 
+- **Neutrophil** 
+- **Platelet** 
 
 ## 📊 Data Used
 
